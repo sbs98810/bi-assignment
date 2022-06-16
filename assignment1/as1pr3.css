@@ -82,7 +82,7 @@ span.c{
     padding: 10px;
 }
 .sz1{
-    display: inline;
+    display: inline-block;
 }
 .co5{
     font-weight: bold;
